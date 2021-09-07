@@ -1,0 +1,15 @@
+{
+  "name": "10)-test-driven-development",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Opdracht-1 Add One.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
+}
